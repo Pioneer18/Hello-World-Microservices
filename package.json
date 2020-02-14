@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Pioneer18/Hello-World-Microservices/issues"
   },
-  "homepage": "https://github.com/Pioneer18/Hello-World-Microservices#readme"
+  "homepage": "https://github.com/Pioneer18/Hello-World-Microservices#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
 }
