@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-microservice",
+  "version": "1.0.0",
+  "description": "my hello world node.js microservice repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pioneer18/Hello-World-Microservices.git"
+  },
+  "keywords": [
+    "microservices",
+    "node.js"
+  ],
+  "author": "Jonathan Sells",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pioneer18/Hello-World-Microservices/issues"
+  },
+  "homepage": "https://github.com/Pioneer18/Hello-World-Microservices#readme"
+}
